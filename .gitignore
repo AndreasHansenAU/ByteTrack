@@ -139,3 +139,11 @@ docs/api
 events.out.tfevents*
 pretrained
 YOLOX_outputs
+
+# crowdhuman
+CrowdHuman_train01.zip
+CrowdHuman_train02.zip
+CrowdHuman_train03.zip
+CrowdHuman_val.zip
+annotation_train.odgt
+annotation_val.odgt
