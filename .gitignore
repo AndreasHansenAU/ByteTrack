@@ -138,7 +138,11 @@ docs/api
 *.engine
 events.out.tfevents*
 pretrained
-YOLOX_outputs
+*.pth.tar
+#YOLOX_outputs
+
+# datasets
+datasets
 
 # crowdhuman
 CrowdHuman_train01.zip
